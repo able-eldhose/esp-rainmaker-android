@@ -6,11 +6,11 @@ android {
     compileSdkVersion 28
 
     defaultConfig {
-        applicationId "com.espressif.rainmaker"
+        applicationId "com.slick.iot"
         minSdkVersion 24
         targetSdkVersion 28
         versionCode 6
-        versionName "2.0.0"
+        versionName "1.0.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -21,16 +21,16 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             resValue "string", "security_type", "sec1"
             resValue "string", "proof_of_possesion", "abcd1234"
-            resValue "string", "user_pool_id", "your_user_pool_id"
-            resValue "string", "client_id", "your_client_id"
+            resValue "string", "user_pool_id", "us-east-1_kWz4M6MfD"
+            resValue "string", "client_id", "60i6kac5f9rjuetqnq5mnmaqv6"
         }
 
         debug {
             debuggable true
             resValue "string", "security_type", "sec1"
             resValue "string", "proof_of_possesion", "abcd1234"
-            resValue "string", "user_pool_id", "your_user_pool_id"
-            resValue "string", "client_id", "your_client_id"
+            resValue "string", "user_pool_id", "us-east-1_kWz4M6MfD"
+            resValue "string", "client_id", "60i6kac5f9rjuetqnq5mnmaqv6"
         }
     }
 
