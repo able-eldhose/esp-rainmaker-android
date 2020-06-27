@@ -79,7 +79,7 @@
     <string name="Password">Password</string>
     <string name="Menu">Menu</string>
     <string name="app_main_desc">A sample app to showcase Cognito Identity and the SDK for Android.</string>
-    <string name="powered_by_esp">Powered by ESPRESSIF</string>
+    <string name="powered_by_esp">Slick-IoT</string>
     <string name="no_devices">No devices added</string>
     <string name="add_device_txt">You can provision a device by scanning the QR code or you can do it manually my tapping on + icon on right-top of this screen.</string>
     <string name="signup_confirm_msg">Enter verification code.</string>
@@ -154,9 +154,9 @@
     <string name="title_activity_user_profile">User Profile</string>
 
     <!--Link texts-->
-    <string name="link_documentation"><a href="https://rainmaker.espressif.com/">Documentation</a></string>
-    <string name="link_privacy"><a href="https://rainmaker.espressif.com/docs/privacy-policy.html">Privacy</a></string>
-    <string name="link_terms_of_use"><a href="https://rainmaker.espressif.com/docs/terms-of-use.html">Terms of Use</a></string>
+    <string name="link_documentation"><a>>Documentation</a></string>
+    <string name="link_privacy"><a>Privacy</a></string>
+    <string name="link_terms_of_use"><a>Terms of Use</a></string>
 
     <!--Dialog texts-->
     <string name="dialog_title_login_failed">Sign-in failed</string>
